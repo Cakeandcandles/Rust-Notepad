@@ -1,0 +1,3 @@
+This is a very minimal, yet powerful note-taking/writing app I designed for my desktop. It's features include being able to create, save, and load plain text files - completely powered by Rust and the egui framework. 
+Another feature is the optional file picker toggle, wich is a personal favorite- it gives you the option to simply have a folder created wich will store all of your text files automatically, or you can toggle it on and manually 
+choose where you'd like your file to go. To use, just make sure you have rust and cargo installed, and clone and run with cargo run (or cargo run --release if you plan on saving the executable).
